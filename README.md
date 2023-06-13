@@ -10,6 +10,7 @@ Things I need to work on.
 5. ABAC (Attribute Based Access Control)
 6. Powershell - More practice is required (I have used bash in Linux before)
 7. Audits (Internal & External) - However it can be understood its better to learn on the job about this
+8. CyberArk & Sailpint (Learn more about the tool)
 
 Things I already understand
 
@@ -20,3 +21,4 @@ Things I already understand
 5. Jira
 6. Knowledge of Active Directory – IAM, RBAC (Role Based Access Control) & PAM (Privilege Access Managment) Controls
 7. Powershell - understand the fundamental concepts and what each piece of code does
+8. Used RedHat automation and worked through the exercises
