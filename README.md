@@ -22,3 +22,4 @@ Things I already understand
 6. Knowledge of Active Directory – IAM, RBAC (Role Based Access Control) & PAM (Privilege Access Managment) Controls
 7. Powershell - understand the fundamental concepts and what each piece of code does
 8. Used RedHat automation and worked through the exercises
+9. Pluralsight - Watched the videos on how IAM works in GCP, AWS & Azure
