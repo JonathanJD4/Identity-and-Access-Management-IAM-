@@ -1,5 +1,5 @@
-# Identity-and-Access-Management-IAM-
-Identity &amp; Access Management - In summary developing my skills
+# Identity-and-Access-Management-IAM
+Identity and Access Management - In summary developing my skills
 
 Things I need to work on.
 
@@ -7,10 +7,11 @@ Things I need to work on.
 2. Governance, getting familar it the ISO such as ISO20071 etc...
 3. Okta (I have read up on their CIAM)
 4. GCP - Google Cloud Platform
-5. ABAC (Attribute Based Access Control)
+5. GDPR & DPA(2018) check to see if there has been any updates
 6. Powershell - More practice is required (I have used bash in Linux before)
-7. Audits (Internal & External) - However it can be understood its better to learn on the job about this
+7. Audits (Internal & External) - However it can be understood its better to learn on the job about this - SOC 2 
 8. CyberArk & Sailpint (Learn more about the tool)
+9. Read up on NIST (Nation Institution of Standards & Technology)
 
 Things I already understand
 
@@ -23,3 +24,14 @@ Things I already understand
 7. Powershell - understand the fundamental concepts and what each piece of code does
 8. Used RedHat automation and worked through the exercises
 9. Pluralsight - Watched the videos on how IAM works in GCP, AWS & Azure
+
+Things I have done
+
+1. Reviewed notes over Access Control
+2. Read and increased knowledge on Compliance (Microsoft)
+3. Working towards the SC-300 (Microsoft)
+4. Reading up on the SC-400 (Microsoft) to gain more knowledge on Information protection
+5. As I am already familiar with Azure AD this has been renamed to Entra ID over a month ago. I am familiar with this and up to date
+6. ABAC (Attribute Based Access Control) - made notes
+7. Made notes of SOC 2 (System and Organisation Controls) criteria
+8. SOC 1 is based on the financial side
