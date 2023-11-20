@@ -12,6 +12,7 @@ Things I need to work on.
 7. Audits (Internal & External) - However it can be understood its better to learn on the job about this - SOC 2 
 8. CyberArk & Sailpint (Learn more about the tool)
 9. Read up on NIST (Nation Institution of Standards & Technology)
+10. Microsoft Purview (Try it out or view it)
 
 Things I already understand
 
@@ -35,3 +36,4 @@ Things I have done
 6. ABAC (Attribute Based Access Control) - made notes
 7. Made notes of SOC 2 (System and Organisation Controls) criteria
 8. SOC 1 is based on the financial side
+9. Gone on Microsoft Learn to read about Microsoft Purview
