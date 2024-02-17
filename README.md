@@ -30,7 +30,7 @@ Things I have done
 
 1. Reviewed notes over Access Control
 2. Read and increased knowledge on Compliance (Microsoft)
-3. Working towards the SC-300 (Microsoft)
+3. Completed the SC-300 exam and passed
 4. Reading up on the SC-400 (Microsoft) to gain more knowledge on Information protection
 5. As I am already familiar with Azure AD this has been renamed to Entra ID over a month ago. I am familiar with this and up to date
 6. ABAC (Attribute Based Access Control) - made notes
