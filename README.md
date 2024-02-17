@@ -11,7 +11,7 @@ Things I need to work on.
 6. Powershell - More practice is required (I have used bash in Linux before)
 7. Audits (Internal & External) - However it can be understood its better to learn on the job about this - SOC 2 
 8. CyberArk & Sailpint (Learn more about the tool)
-9. Read up on NIST (Nation Institution of Standards & Technology)
+9. Read up on NIST (National Institution of Standards & Technology)
 10. Microsoft Purview (Try it out or view it)
 
 Things I already understand
@@ -25,6 +25,7 @@ Things I already understand
 7. Powershell - understand the fundamental concepts and what each piece of code does
 8. Used RedHat automation and worked through the exercises
 9. Pluralsight - Watched the videos on how IAM works in GCP, AWS & Azure
+10. SOC 2 - System & Organisation Controls
 
 Things I have done
 
