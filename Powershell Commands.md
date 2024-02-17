@@ -15,6 +15,10 @@ Net use - "(Lists network drives connected)"
 
 Get-WmiObject -Class Win32_Product
 
+### Bypasses the execution policy
+
+Set-ExecutionPolicy Bypass -Scope Process
+
 ### More commands
 Hostname - "(device name)"
 
@@ -24,6 +28,3 @@ Nslookup
 Default server:
 Address: "
 
-Set-ExecutionPolicy Bypass -Scope Process
-
-"Bypasses the execution policy"
