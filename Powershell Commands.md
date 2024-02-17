@@ -1,17 +1,21 @@
 ## Powershell Commands
 
-File directory
+### File directory
 
 Set-Location -Path "drive:\"
 Get-Location "(gets location of directory)"
+
+### Poweshell version 
 
 $PSVersionTable - "Checks Powershell version"
 
 Net use - "(Lists network drives connected)"
 
-Get-WmiObject -Class Win32_Product
-"This finds out details & versions of programs installed"
+### Finds out details & versions of programs installed
 
+Get-WmiObject -Class Win32_Product
+
+### More commands
 Hostname - "(device name)"
 
 Nslookup
